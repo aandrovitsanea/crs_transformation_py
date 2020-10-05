@@ -2,7 +2,7 @@
 
 ### This is a simple application of [pyproj tools](https://pypi.org/project/pyproj/) that performs transformations between coordinate reference systems. 
 
-### It includes a [script](https://github.com/aandrovitsanea/crs_transformation_py/blob/master/tranformation_crs_EPSGs.py written on python you can run on a shell, where you are asked to import the codes of the crs you have and you want to get as well as the path of your input file.
+### It includes a [script](https://github.com/aandrovitsanea/crs_transformation_py/blob/master/tranformation_crs_EPSGs.py) written on python you can run on a shell, where you are asked to import the codes of the crs you have and you want to get as well as the path of your input file.
 
 ### It also includes a [notebook](https://github.com/aandrovitsanea/crs_transformation_py/blob/master/tranformations_epsg_crs.ipynb) that you can run on the jupyter notebook environment.
 
